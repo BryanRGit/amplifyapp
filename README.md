@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Fixed bug<br/>
 This new feature<br/>
 This will advance our new branch<br />
 Cheching change on GitHub<br />
